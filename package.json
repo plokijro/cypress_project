@@ -1,0 +1,19 @@
+{
+  "name": "cypress_project",
+  "version": "1.0.0",
+  "description": "Cypress scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "test",
+    "cypress"
+  ],
+  "author": "MR",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
